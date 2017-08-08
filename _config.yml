@@ -33,8 +33,5 @@ home:
   section1: <h1>Kacper Duras</h1>
   section2: <h2>Backend developer</h2>
 
-google_analytics:
-addthis_public_id:
-
 paths:
   home: /
