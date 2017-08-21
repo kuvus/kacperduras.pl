@@ -17,8 +17,6 @@ kramdown:
 sass:
   style: compressed
 
-url:
-baseurl:
 title: Kacper Duras
 description: "Backend developer."
 keywords: 'kacper,duras,backend,developer'
@@ -27,6 +25,8 @@ author:
   social_links:
     - name: github
       url: https://github.com/kacperduras/
+    - name: stackoverflow
+      url: https://stackoverflow.com/users/8497193/kacperduras?tab=profile
 home:
   section1: <h1>Kacper Duras</h1>
   section2: <h2>Backend developer</h2>

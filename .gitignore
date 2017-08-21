@@ -16,3 +16,6 @@ yarn.lock
 # Ignore Yard Doc
 /doc
 .yardoc/
+
+# RubyMine files
+.idea/
