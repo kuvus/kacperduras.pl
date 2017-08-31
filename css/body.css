@@ -1,0 +1,44 @@
+.mono, body {
+  font-family: 'Cousine', monospace;
+}
+
+.sans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  color: #767676;
+  font-size: 16px;
+  overflow-y: hidden;
+}
+
+#content {
+  text-align: center;
+
+  margin: 40vh auto 60vh;
+}
+
+#content hr {
+  width: 32px;
+  height: 0px;
+  color: #767676;
+
+  margin: 20px auto 20px;
+}
+
+.icons {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
+
+.icons .icon a img {
+  width: 32px;
+  height: auto;
+
+  padding-left: 8px;
+  padding-right: 8px;
+}
